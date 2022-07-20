@@ -1,0 +1,24 @@
+.h-2{
+	height:2rem!important;
+}
+.w-2{
+	width:2rem!important;
+}
+.font-weight-400{
+	font-weight:400!important;
+}
+.carsor-pointer{
+	cursor:pointer!important;
+}
+.background-size-cover{
+	background-size:cover;
+}
+.background-repeat-no-repeat{
+	background-repeat:no-repeat;
+}
+.background-position-center{
+	background-position:center;
+}
+.background-attachment-fixed{
+	background-attachment:fixed;
+}
